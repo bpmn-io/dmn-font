@@ -1,0 +1,27 @@
+{
+  "name": "dmn-font",
+  "description": "A DMN 1.1 icon font",
+  "version": "0.1.0",
+  "keywords": [
+    "dmn",
+    "font",
+    "iconfont",
+    "icons"
+  ],
+  "author": {
+    "name": "Ricardo Matias",
+    "url": "https://github.com/ricardomatias"
+  },
+  "contributors": [
+    {
+      "name": "bpmn.io contributors",
+      "url": "https://github.com/bpmn-io"
+    }
+  ],
+  "license": "SIL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bpmn-io/dmn-font"
+  },
+  "homepage": "https://github.com/bpmn-io/dmn-font"
+}

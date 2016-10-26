@@ -1,0 +1,13 @@
+
+.icon-decision:before { content: '\e800'; } /* '' */
+.icon-business-knowledge:before { content: '\e801'; } /* '' */
+.icon-knowledge-source:before { content: '\e802'; } /* '' */
+.icon-input-data:before { content: '\e803'; } /* '' */
+.icon-text-annotation:before { content: '\e804'; } /* '' */
+.icon-connection:before { content: '\e805'; } /* '' */
+.icon-connection-multi:before { content: '\e806'; } /* '' */
+.icon-lasso-tool:before { content: '\e808'; } /* '' */
+.icon-screw-wrench:before { content: '\e809'; } /* '' */
+.icon-trash:before { content: '\e80a'; } /* '' */
+.icon-drag:before { content: '\e80b'; } /* '' */
+.icon-bpmn-io:before { content: '\e80c'; } /* '' */
