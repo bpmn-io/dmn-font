@@ -305,6 +305,12 @@
       "search": [
         "bpmn-io"
       ]
+    },
+    {
+      "uid": "d35a1d35efeb784d1dc9ac18b9b6c2b6",
+      "css": "edit",
+      "code": 59427,
+      "src": "fontawesome"
     }
   ]
 }
