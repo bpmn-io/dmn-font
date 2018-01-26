@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'dmn';
-  src: url('../font/dmn.eot?30167038');
-  src: url('../font/dmn.eot?30167038#iefix') format('embedded-opentype'),
-       url('../font/dmn.woff2?30167038') format('woff2'),
-       url('../font/dmn.woff?30167038') format('woff'),
-       url('../font/dmn.ttf?30167038') format('truetype'),
-       url('../font/dmn.svg?30167038#dmn') format('svg');
+  src: url('../font/dmn.eot?99926915');
+  src: url('../font/dmn.eot?99926915#iefix') format('embedded-opentype'),
+       url('../font/dmn.woff2?99926915') format('woff2'),
+       url('../font/dmn.woff?99926915') format('woff'),
+       url('../font/dmn.ttf?99926915') format('truetype'),
+       url('../font/dmn.svg?99926915#dmn') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'dmn';
-    src: url('../font/dmn.svg?30167038#dmn') format('svg');
+    src: url('../font/dmn.svg?99926915#dmn') format('svg');
   }
 }
 */
@@ -89,4 +89,6 @@
 .dmn-icon-screw-wrench:before { content: '\e81f'; } /* '' */
 .dmn-icon-trash:before { content: '\e820'; } /* '' */
 .dmn-icon-bpmn-io:before { content: '\e821'; } /* '' */
+.dmn-icon-cut:before { content: '\e822'; } /* '' */
 .dmn-icon-edit:before { content: '\e823'; } /* '' */
+.dmn-icon-paste:before { content: '\f0ea'; } /* '' */
