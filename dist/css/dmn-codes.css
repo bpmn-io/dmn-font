@@ -33,6 +33,8 @@
 .dmn-icon-screw-wrench:before { content: '\e81f'; } /* '' */
 .dmn-icon-trash:before { content: '\e820'; } /* '' */
 .dmn-icon-bpmn-io:before { content: '\e821'; } /* '' */
-.dmn-icon-cut:before { content: '\e822'; } /* '' */
-.dmn-icon-edit:before { content: '\e823'; } /* '' */
+.dmn-icon-decision-table:before { content: '\e822'; } /* '' */
+.dmn-icon-literal-expression:before { content: '\e823'; } /* '' */
+.dmn-icon-edit:before { content: '\e824'; } /* '' */
+.dmn-icon-cut:before { content: '\e825'; } /* '' */
 .dmn-icon-paste:before { content: '\f0ea'; } /* '' */
