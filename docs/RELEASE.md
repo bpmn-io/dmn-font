@@ -8,6 +8,6 @@ A new version of dmn-font should only be released, if really necessary, because 
 
 - Copy the content of the zip file to `dmn-font/dist`.
 
-- Adjust the version property in `dmn-font/package.json` and `dmn-font/bower.json`.
+- Adjust the version property in `dmn-font/package.json`.
 
 - (optional) Tweet how awesome the new version of the font is!
