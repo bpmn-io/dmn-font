@@ -21,4 +21,4 @@ Use icons prefixed with `dmn-icon-`, i.e.:
 
 ## License
 
-[SIL](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
+[OFL](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web)
